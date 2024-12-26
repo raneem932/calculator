@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\calculator\bin\Debug\calculator.exe.config
+C:\Users\pc\source\repos\calculator\bin\Debug\calculator.exe
+C:\Users\pc\source\repos\calculator\bin\Debug\calculator.pdb
+C:\Users\pc\source\repos\calculator\bin\Debug\Guna.UI2.dll
+C:\Users\pc\source\repos\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\pc\source\repos\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\pc\source\repos\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\calculator\obj\Debug\calculator.csproj.Up2Date
+C:\Users\pc\source\repos\calculator\obj\Debug\calculator.exe
+C:\Users\pc\source\repos\calculator\obj\Debug\calculator.pdb
